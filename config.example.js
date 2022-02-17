@@ -3,16 +3,16 @@ module.exports = {
   updateInterval: 60 * 2, // 2 Minutes
   clans: [
     {
-      tag: '',
-      channelId: ''
+      tag: '943710927340052520',
+      channelId: '943765289563226152'
     }
   ],
   coc: {
     apiKey: '',
   },
   discord: {
-    clientId: '',
-    userToken: ''
+    clientId: '943774567120388116',
+    userToken: 'OTQzNzc0NTY3MTIwMzg4MTE2.Yg38jw.bc0yxU_OBaGXCZIzGABTTxS7Ij4'
   },
   starColors: [
     0xff484e, // 0 Stars
