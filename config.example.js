@@ -8,7 +8,7 @@ module.exports = {
     }
   ],
   coc: {
-    apiKey: '',
+    apiKey: 'sh3js6dh',
   },
   discord: {
     clientId: '943774567120388116',
