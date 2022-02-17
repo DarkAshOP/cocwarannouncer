@@ -3,7 +3,7 @@ module.exports = {
   updateInterval: 60 * 2, // 2 Minutes
   clans: [
     {
-      tag: '943710927340052520',
+      tag: '#2QQ2VJJQ9',
       channelId: '943765289563226152'
     }
   ],
@@ -39,7 +39,7 @@ module.exports = {
     },
     finalMinutes: {
       title: 'The final minutes are here!',
-      body: '@everyone If you haven\'t made both of your attacks you better get on it.',
+      body: 'If you haven\'t made both of your attacks you better get on it.',
       color: 0x007cff
     }
   }
