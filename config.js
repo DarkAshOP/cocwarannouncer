@@ -12,7 +12,7 @@ module.exports = {
   },
   discord: {
     clientId: '975216336684875796',
-    userToken: ''
+    userToken: 'dotenv.get("token")'
   },
   starColors: [
     0xff484e, // 0 Stars
