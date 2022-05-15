@@ -4,15 +4,15 @@ module.exports = {
   clans: [
     {
       tag: '#2QQ2VJJQ9',
-      channelId: '943765289563226152'
+      channelId: '943793224420569118'
     }
   ],
   coc: {
     apiKey: 'sh3js6dh',
   },
   discord: {
-    clientId: '943774567120388116',
-    userToken: 'OTQzNzc0NTY3MTIwMzg4MTE2.Yg38jw.bc0yxU_OBaGXCZIzGABTTxS7Ij4'
+    clientId: '975216336684875796',
+    userToken: ''
   },
   starColors: [
     0xff484e, // 0 Stars
